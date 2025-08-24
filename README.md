@@ -1,6 +1,6 @@
 # Hey there! &nbsp;👋
 
-I'm [Rajat Soni](https://linkedin.com/in/rajat-soni), a passionate frontend developer with 7+ years of experience in building web and mobile applications. I specialize in Angular and Ionic Framework. I'm proud to say that I can successfully center a div with CSS 😁
+I'm [Rajat Soni](https://linkedin.com/in/rajat-soni), a passionate software developer with 8+ years of experience in building web and mobile applications. I specialize in Angular and Ionic Framework. I'm proud to say that I can successfully center a div with CSS 😁
 
 ## :computer: Skills
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -16,7 +16,7 @@ I'm [Rajat Soni](https://linkedin.com/in/rajat-soni), a passionate frontend deve
 
 
 ## :hammer_and_wrench: Tools and Technologies
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![](https://img.shields.io/badge/cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
